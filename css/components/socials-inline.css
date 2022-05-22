@@ -1,0 +1,17 @@
+.socials-inline {
+	margin: 35px 10px;
+	list-style:  none;
+	padding-left:  100px;
+}
+.socials-inline li {
+	display:  inline;
+	padding:  24 px;
+}
+.socials-inline i {
+	font-size: 60px;
+	color: white; 
+	padding: 30px;
+}
+.socials-inline i:hover {
+	color: #A43426;
+}
